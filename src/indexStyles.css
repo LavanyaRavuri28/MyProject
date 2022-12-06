@@ -47,7 +47,7 @@ body
     min-height: 440px;
     background: white;
     text-align: left;
-    background-image: url(C:/Users/Dell/Documents/GitHub/MyProject/images/download7.jpg),url(C:/Users/Dell/Documents/GitHub/MyProject/images/download1.png);
+    background-image: url(download7.jpg),url(download1.png);
     background-position: left top,right bottom;
     background-repeat: no-repeat;
     padding: 15px;

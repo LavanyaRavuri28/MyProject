@@ -1,0 +1,58 @@
+body
+{
+	margin: 0px;
+    font-family: sans-serif;
+}
+/** header section style code**/
+#header
+{
+	padding: 20px;
+    background-color:#455e64;
+    text-align: center;
+    color: white;
+}
+#hearderImage
+{
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-left: 7px;
+}
+/** main content style code**/
+.lside
+{
+    float: left;
+    width: 80%;
+    min-height: 440px;
+    background: white;
+    text-align: left;
+    padding: 10px;
+
+}
+#airforceimg
+{
+    float: left;
+
+}
+.rside
+{
+    
+
+    border: 5px solid yellow;
+    text-align: center;
+    float: right;
+    width: 20%;
+    min-height: 440px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmCYH34OTrwoDl_vGXFLWIMJ-_LOAllghJIQ&usqp=CAU);
+}
+.footer
+{
+    height: 44px;
+    background-color:#455e64; 
+    text-align: center; 
+    padding-top: 10px;
+}
+.footer p
+{
+    color:  #8fbc8f;
+}

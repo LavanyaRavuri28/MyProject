@@ -47,8 +47,8 @@ body
     min-height: 440px;
     background: white;
     text-align: left;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm18vjW_LjGM1xSfB9uTUq9gk1CG5c6pz77A&usqp=CAU),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm18vjW_LjGM1xSfB9uTUq9gk1CG5c6pz77A&usqp=CAU);
-    background-position: left top,right bottom;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm18vjW_LjGM1xSfB9uTUq9gk1CG5c6pz77A&usqp=CAU);
+    background-position: right bottom;
     background-repeat: no-repeat;
     padding: 15px;
 

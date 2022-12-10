@@ -1,0 +1,30 @@
+body
+{
+	margin: 0px;
+    font-family: sans-serif;
+}
+/** header section style code**/
+#header
+{
+	padding: 20px;
+    background-color:#455e64;
+    text-align: center;
+    color: white;
+}
+
+/** navigation bar styles code**/
+
+/** main content style code**/
+.mainContent
+{
+    float: left;
+    width: 100%;
+    background: white;
+    text-align: left;
+    padding: 15px;
+}
+table img
+{
+    height: 150px;
+    width: 150px;
+}

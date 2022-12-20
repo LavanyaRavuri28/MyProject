@@ -28,6 +28,10 @@
           return false;
         }
       }
+      function login()
+      {
+        alert("Login successful");
+      }
     </script>
     <style type="text/css">
     
@@ -109,7 +113,7 @@
                   <input type="Password" id="pass" name="pass" placeholder="Enter Password Here" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"><br>
                   <p class="bg-warning" style="width: 400px;">(Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters)</p>
 
-                  <input type="submit" value="Login" class="btn btn-primary">  
+                  <input type="submit" value="Login" class="btn btn-primary" onclick="login()">  
                   <br>
                   <br>
                 </fieldset>
